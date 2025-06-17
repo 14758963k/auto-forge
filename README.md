@@ -65,7 +65,7 @@ Total	55+ mins	< 2 mins
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/auto-forge.git
+git clone https://github.com/14758963k/auto-forge
 cd auto-forge
 pip install -r requirements.txt
 Requires Python 3.8+, VS Code with Copilot, and pyautogui.
